@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Xin chao TDC nhe sua tren may
+=======
+Xin chao TDC sua sever
+>>>>>>> origin/main
