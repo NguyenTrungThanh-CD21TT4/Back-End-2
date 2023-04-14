@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Xin chao TDC tao loi duoi file
-=======
-Xin chao TDC sau khi tao loi
->>>>>>> origin/main
+Xin chao TDC tao loi mess
